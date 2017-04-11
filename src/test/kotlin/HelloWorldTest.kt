@@ -6,4 +6,9 @@ class HelloWorldTest {
     fun testGetGreetings() {
         assertEquals("Hello, World!", getGreetings());
     }
+
+    @Test
+    fun abc() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+    }
 }
